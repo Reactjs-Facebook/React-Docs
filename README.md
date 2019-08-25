@@ -12,4 +12,4 @@ Data within a component can come from the outside (props) or be instantiated fro
 
 ### State
 A state is primarily used when you make changes that only make sense within the component.
-`...state` - spread operator is used for return current state
+* `...state` - spread operator is used for return current state
