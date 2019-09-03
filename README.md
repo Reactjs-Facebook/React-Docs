@@ -4,6 +4,8 @@
 * [MDN Event Reference](https://developer.mozilla.org/en-US/docs/Web/Events)
 * [React: CSS in JS](https://speakerdeck.com/vjeux/react-css-in-js)
 * [React: Styling and CSS](https://reactjs.org/docs/faq-styling.html)
+* [Start sharing reusable code](https://bit.dev/)
+* [Styled Components](https://github.com/styled-components/styled-components)
 
 ## Component Specification
 * methods dealing with the component life cycle, such as `componentDidMount`, `componentShouldUpdate`
