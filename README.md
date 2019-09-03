@@ -2,6 +2,7 @@
 * [Udemy - React Front To Back 2019](https://www.udemy.com/modern-react-front-to-back/?couponCode=TRAVERSYMEDIA)
 * http://designwebkit.com/tutorials/learn-react-js/
 * [MDN Event Reference](https://developer.mozilla.org/en-US/docs/Web/Events)
+* [Traversy Media - React JS 2019](https://www.youtube.com/watch?v=sBws8MSXN7A&t=842s)
 
 
 ## Styling
