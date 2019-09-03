@@ -8,6 +8,7 @@
 * [Styled Components](https://github.com/styled-components/styled-components)
 * [5 Ways to Style React Components in 2019](https://blog.bitsrc.io/5-ways-to-style-react-components-in-2019-30f1ccc2b5b)
 * [Styled Components Library](https://www.styled-components.com/docs/basics#motivation)
+* [CSS Tricks](https://css-tricks.com/video-screencasts/)
 
 ## Component Specification
 * methods dealing with the component life cycle, such as `componentDidMount`, `componentShouldUpdate`
